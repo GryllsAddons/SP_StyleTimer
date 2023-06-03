@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: SP_StyleTimer
+## Author: Grylls
+## Notes: Styles SP_SwingTimer
+## Version: GIT
+## Dependencies: SP_SwingTimer
+
+SP_StyleTimer.lua
