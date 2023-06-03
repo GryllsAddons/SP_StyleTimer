@@ -79,7 +79,7 @@ if IsAddOnLoaded("SP_SwingTimer") and (not IsAddOnLoaded("GryllsSwingTimer")) th
     SP_ST_FrameOFF:ClearAllPoints()
 
     SP_ST_Frame:SetPoint("CENTER", 0, -250)
-    SP_ST_FrameOFF:SetPoint("TOP", "SP_ST_Frame", "BOTTOM", 0, -4);
+    SP_ST_FrameOFF:SetPoint("TOP", "SP_ST_Frame", "BOTTOM", 0, -2);
 
     SP_ST_FrameTime:ClearAllPoints()
     SP_ST_FrameTime2:ClearAllPoints()            
